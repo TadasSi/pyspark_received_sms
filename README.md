@@ -1,4 +1,4 @@
-# process received_sms
+# Process received_sms
 
 The aim of this project is to process car parking event log.
 
